@@ -1,4 +1,4 @@
-# Data Analysis of CPS outcomes Using R programming Language and its Libraries
+# Data Analysis of CPS crime outcomes Using R Programming Language and its Libraries
 
 This repository aims to provide an in-depth analysis of prosecution outcomes within the context of the Crown Prosecution Service.
 By utilizing a comprehensive dataset of CPS cases from year 2014 - 2018, this project delves into the factors that influence prosecution outcomes and sheds light on the various aspects that contribute to case resolutions. Outcomes are broken down into two categories, convictions and unsuccessful outcomes. Convictions comprise guilty pleas, convictions after trial and cases proved in the absence of the defendant. Unsuccessful outcomes represent all outcomes other than a conviction, comprising discontinuances and withdrawals, discharged committals, dismissals and acquittals, and administrative finalisations. Our objective is to extract meaningful insights from this data to gain a deeper understanding of the CPS system and its impact on the administration of justice.
