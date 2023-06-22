@@ -3,7 +3,7 @@
 This repository aims to provide an in-depth analysis of prosecution outcomes within the context of the Crown Prosecution Service.
 By utilizing a comprehensive dataset of CPS cases, this project delves into the factors that influence prosecution outcomes and sheds light on the various aspects that contribute to case resolutions, including conviction rates, plea bargains, dismissed charges, and more. Our objective is to extract meaningful insights from this data to gain a deeper understanding of the CPS system and its impact on the administration of justice.
 
-Key Features:
+#### Key Features:
 
 1. Dataset Exploration: Explore a diverse and extensive dataset of CPS cases, encompassing different crime types, geographical regions, and time periods.
 
